@@ -1,2 +1,3 @@
-centos
-
+pikachu
+sqlilabs
+uploadlabs
