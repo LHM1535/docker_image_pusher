@@ -1,3 +1,1 @@
-pikachu
-sqlilabs
-uploadlabs
+webgoat
