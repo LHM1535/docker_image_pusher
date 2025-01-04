@@ -1,1 +1,1 @@
-thinkPHP3.2.3
+thinkPHP3
