@@ -1,2 +1,2 @@
-area39/pikachu
+xyhcms/xyhcms:3.6
 coder4coder/thingphp:3.2.3
