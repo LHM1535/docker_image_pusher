@@ -1,2 +1,2 @@
-thinkphp:3.2.3
+ThinkPHP5.0.15
 
