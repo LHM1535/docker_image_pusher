@@ -1,2 +1,2 @@
-thinkphp:5.0.15
-coder4coder/thingPHP:3.2.3
+nginx:1.21
+
