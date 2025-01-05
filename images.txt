@@ -1,2 +1,2 @@
-nginx:3.23
+thinkphp:3.2.3
 
