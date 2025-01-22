@@ -1,3 +1,3 @@
-vulfocus/drupal-cve_2017_6920:latest
+vulfocus/spring-core-rce-2022-03-29
 
 
